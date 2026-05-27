@@ -97,8 +97,3 @@
     <circle cx="858" cy="675" r="26" fill="#8a8a7a"/>
     <polygon points="850,665 872,675 850,685" fill="#1a1710"/>
   </a>
-
-  <!-- ── FOOTER ── -->
-  <text x="28" y="818" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#A3A380">@dasMeds · on repeat</text>
-  <text x="876" y="818" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#BB8588" text-anchor="end">open in spotify ↗</text>
-</svg>
