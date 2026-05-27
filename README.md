@@ -67,7 +67,6 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<!-- Swapped height for a strict width so they fit within GitHub's 880px limit -->
 <img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" width="420" />
 <img src="https://streak-stats.demolab.com?user=dasMeds&theme=transparent&background=EFEBCE&ring=A3A380&fire=BB8588&currStreakLabel=A3A380&sideNums=191A1D&currStreakNum=191A1D&sideLabels=A3A380&dates=777777&stroke=EFEBCE&hide_border=true" alt="dasMeds's GitHub Streak" width="420" />
 
@@ -79,7 +78,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<img src="spotify-card.svg" width="500" alt="On Repeat" />
+src="[https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg](https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg)"
 
 </div>
 
