@@ -63,7 +63,6 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 ![dasMeds's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE)
 
-
 </div>
 
 ---
