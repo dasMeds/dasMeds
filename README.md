@@ -69,12 +69,18 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dasMeds&theme=transparent&background=EFEBCE&ring=A3A380&fire=BB8588&currStreakLabel=A3A380&sideNums=191A1D&currStreakNum=191A1D&sideLabels=A3A380&dates=777777&stroke=EFEBCE" alt="dasMeds's GitHub Streak" />
+<!-- Your original stats card with Repos, Issues, etc. -->
+<img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" />
+
+<br>
+<br>
+
+<!-- The new Streak Stats card -->
+<img src="https://streak-stats.demolab.com?user=dasMeds&theme=transparent&background=EFEBCE&ring=A3A380&fire=BB8588&currStreakLabel=A3A380&sideNums=191A1D&currStreakNum=191A1D&sideLabels=A3A380&dates=777777&stroke=EFEBCE&hide_border=true" alt="dasMeds's GitHub Streak" />
 
 </div>
 
 ---
-
 
 ## On Repeat
 
