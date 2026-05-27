@@ -63,26 +63,25 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 | [Portfolio Website](https://github.com/dasMeds/dasmedsPortfolio.github.io) | Personal portfolio built with HTML, CSS & JS | HTML, CSS, JS |
 | [House of Origami](https://github.com/dasMeds/House-of-Origami) | A creative HTML project | HTML |
 
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" height="195" />
-<img src="https://streak-stats.demolab.com?user=dasMeds&theme=transparent&background=EFEBCE&ring=A3A380&fire=BB8588&currStreakLabel=A3A380&sideNums=191A1D&currStreakNum=191A1D&sideLabels=A3A380&dates=777777&stroke=EFEBCE&hide_border=true" alt="dasMeds's GitHub Streak" height="195" />
+<!-- Swapped height for a strict width so they fit within GitHub's 880px limit -->
+<img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" width="420" />
+<img src="https://streak-stats.demolab.com?user=dasMeds&theme=transparent&background=EFEBCE&ring=A3A380&fire=BB8588&currStreakLabel=A3A380&sideNums=191A1D&currStreakNum=191A1D&sideLabels=A3A380&dates=777777&stroke=EFEBCE&hide_border=true" alt="dasMeds's GitHub Streak" width="420" />
 
 </div>
+
+---
 
 ## On Repeat
 
 <div align="center">
 
-<img src="./spotify-card.svg" width="500" alt="On Repeat" />
+<img src="spotify-card.svg" width="500" alt="On Repeat" />
 
 </div>
-
----
 
 ## Beyond the Code
 
