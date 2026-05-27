@@ -63,6 +63,8 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 | [Portfolio Website](https://github.com/dasMeds/dasmedsPortfolio.github.io) | Personal portfolio built with HTML, CSS & JS | HTML, CSS, JS |
 | [House of Origami](https://github.com/dasMeds/House-of-Origami) | A creative HTML project | HTML |
 
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -72,6 +74,8 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 </div>
 
+---
+
 ## On Repeat
 
 <div align="center">
@@ -79,6 +83,8 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 <img src="https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg" width="500" alt="On Repeat" />
 
 </div>
+
+---
 
 ## Beyond the Code
 
