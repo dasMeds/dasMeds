@@ -61,9 +61,9 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-![dasMeds's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dasMeds&show_icons=true&title_color=A3A380&icon_color=D8A48F&text_color=D7CE93&bg_color=1a1a1a&hide_border=true&count_private=true)
+![dasMeds's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=1a1a1a&tc=A3A380&ic=D8A48F&bc=1a1a1a)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=A3A380&text_color=D7CE93&bg_color=1a1a1a&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=A3A380&text_color=D7CE93&bg_color=1a1a1a&hide_border=true)
 
 </div>
 
