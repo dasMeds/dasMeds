@@ -69,7 +69,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dasMeds&show_icons=true&bg_color=EFEBCE&title_color=A3A380&icon_color=BB8588&text_color=191A1D&hide_border=true&border_radius=16" alt="dasMeds's GitHub Stats" />
+<img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" />
 
 </div>
 
