@@ -3,10 +3,10 @@
 # Hey, I'm Pat Kristian Manalastas
 ### `@dasMeds` — Frontend Developer in Progress · Java Enthusiast · Creative Eye
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A3A380?style=for-the-badge&logo=netlify&logoColor=191A1D)](https://manalastas-official-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB8588?style=for-the-badge&logo=linkedin&logoColor=191A1D)](https://www.linkedin.com/in/pat-kristian-manalastas-2179682a3)
-[![Instagram](https://img.shields.io/badge/Instagram-D8A48F?style=for-the-badge&logo=instagram&logoColor=191A1D)](https://www.instagram.com/das.krstn/?hl=en)
-[![Discord](https://img.shields.io/badge/dasmeds-D7CE93?style=for-the-badge&logo=discord&logoColor=191A1D)](https://discord.com/users/dasmeds)
+<a href="https://manalastas-official-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-A3A380?style=for-the-badge&logo=netlify&logoColor=191A1D" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/pat-kristian-manalastas-2179682a3"><img src="https://img.shields.io/badge/LinkedIn-BB8588?style=for-the-badge&logo=linkedin&logoColor=191A1D" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/das.krstn/?hl=en"><img src="https://img.shields.io/badge/Instagram-D8A48F?style=for-the-badge&logo=instagram&logoColor=191A1D" alt="Instagram" /></a>
+<a href="https://discord.com/users/dasmeds"><img src="https://img.shields.io/badge/dasmeds-D7CE93?style=for-the-badge&logo=discord&logoColor=191A1D" alt="Discord" /></a>
 
 </div>
 
@@ -28,10 +28,10 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-A3A380?style=for-the-badge&logo=html5&logoColor=191A1D)
-![CSS3](https://img.shields.io/badge/CSS3-BB8588?style=for-the-badge&logo=css3&logoColor=191A1D)
-![JavaScript](https://img.shields.io/badge/JavaScript-D7CE93?style=for-the-badge&logo=javascript&logoColor=191A1D)
-![Java](https://img.shields.io/badge/Java-D8A48F?style=for-the-badge&logo=openjdk&logoColor=191A1D)
+<img src="https://img.shields.io/badge/HTML5-A3A380?style=for-the-badge&logo=html5&logoColor=191A1D" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-BB8588?style=for-the-badge&logo=css3&logoColor=191A1D" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-D7CE93?style=for-the-badge&logo=javascript&logoColor=191A1D" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-D8A48F?style=for-the-badge&logo=java&logoColor=191A1D" alt="Java" />
 
 </div>
 
@@ -39,15 +39,15 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-![VS Code](https://img.shields.io/badge/VS_Code-A3A380?style=for-the-badge&logo=visualstudiocode&logoColor=191A1D)
-![Git](https://img.shields.io/badge/Git-BB8588?style=for-the-badge&logo=git&logoColor=191A1D)
-![GitHub](https://img.shields.io/badge/GitHub-D7CE93?style=for-the-badge&logo=github&logoColor=191A1D)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-D8A48F?style=for-the-badge&logo=cisco&logoColor=191A1D)
-![Photoshop](https://img.shields.io/badge/Photoshop-A3A380?style=for-the-badge&logo=adobephotoshop&logoColor=191A1D)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-BB8588?style=for-the-badge&logo=adobepremierepro&logoColor=191A1D)
-![After Effects](https://img.shields.io/badge/After_Effects-D7CE93?style=for-the-badge&logo=adobeaftereffects&logoColor=191A1D)
-![Canva](https://img.shields.io/badge/Canva-D8A48F?style=for-the-badge&logo=canva&logoColor=191A1D)
-![CapCut](https://img.shields.io/badge/CapCut-A3A380?style=for-the-badge&logo=capcut&logoColor=191A1D)
+<img src="https://img.shields.io/badge/VS_Code-A3A380?style=for-the-badge&logo=visualstudiocode&logoColor=191A1D" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-BB8588?style=for-the-badge&logo=git&logoColor=191A1D" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-D7CE93?style=for-the-badge&logo=github&logoColor=191A1D" alt="GitHub" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-D8A48F?style=for-the-badge&logo=cisco&logoColor=191A1D" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/Photoshop-A3A380?style=for-the-badge&logo=adobephotoshop&logoColor=191A1D" alt="Photoshop" />
+<img src="https://img.shields.io/badge/Premiere_Pro-BB8588?style=for-the-badge&logo=adobepremierepro&logoColor=191A1D" alt="Premiere Pro" />
+<img src="https://img.shields.io/badge/After_Effects-D7CE93?style=for-the-badge&logo=adobeaftereffects&logoColor=191A1D" alt="After Effects" />
+<img src="https://img.shields.io/badge/Canva-D8A48F?style=for-the-badge&logo=canva&logoColor=191A1D" alt="Canva" />
+<img src="https://img.shields.io/badge/CapCut-A3A380?style=for-the-badge&logo=capcut&logoColor=191A1D" alt="CapCut" />
 
 </div>
 
@@ -69,7 +69,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-![dasMeds's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE)
+<img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" />
 
 </div>
 
@@ -90,7 +90,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 When I'm not writing code or pushing commits, you'll probably find me:
 
 - Cutting and editing videos — I care a lot about how things *feel*, not just how they look
-- Out with a camera — photography is how I see the world
+- Capturing and composing digital content — whether it's out with a camera or framing up the perfect in-game screenshots to design promotional sneak peeks for War Thunder servers
 - Editing photos and playing with visual composition
 - Learning something new — currently deep in frontend fundamentals and Java OOP
 
@@ -102,6 +102,8 @@ When I'm not writing code or pushing commits, you'll probably find me:
 
 — Marcus Aurelius
 
-[![Visit my Portfolio](https://img.shields.io/badge/See_My_Work-A3A380?style=for-the-badge&logo=netlify&logoColor=191A1D)](https://manalastas-official-portfolio.netlify.app/)
+<br>
+
+<a href="https://manalastas-official-portfolio.netlify.app/"><img src="https://img.shields.io/badge/See_My_Work-A3A380?style=for-the-badge&logo=netlify&logoColor=191A1D" alt="Visit my Portfolio" /></a>
 
 </div>
