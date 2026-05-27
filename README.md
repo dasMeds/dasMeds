@@ -26,12 +26,18 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 ## Languages
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-A3A380?style=for-the-badge&logo=html5&logoColor=191A1D)
 ![CSS3](https://img.shields.io/badge/CSS3-BB8588?style=for-the-badge&logo=css3&logoColor=191A1D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D7CE93?style=for-the-badge&logo=javascript&logoColor=191A1D)
 ![Java](https://img.shields.io/badge/Java-D8A48F?style=for-the-badge&logo=openjdk&logoColor=191A1D)
 
+</div>
+
 ## Tools & Software
+
+<div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS_Code-A3A380?style=for-the-badge&logo=visualstudiocode&logoColor=191A1D)
 ![Git](https://img.shields.io/badge/Git-BB8588?style=for-the-badge&logo=git&logoColor=191A1D)
@@ -42,6 +48,8 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 ![After Effects](https://img.shields.io/badge/After_Effects-D7CE93?style=for-the-badge&logo=adobeaftereffects&logoColor=191A1D)
 ![Canva](https://img.shields.io/badge/Canva-D8A48F?style=for-the-badge&logo=canva&logoColor=191A1D)
 ![CapCut](https://img.shields.io/badge/CapCut-A3A380?style=for-the-badge&logo=capcut&logoColor=191A1D)
+
+</div>
 
 ---
 
