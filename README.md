@@ -72,13 +72,11 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 </div>
 
----
-
 ## On Repeat
 
 <div align="center">
 
-src="[https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg](https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg)"
+<img src="https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg" width="500" alt="On Repeat" />
 
 </div>
 
