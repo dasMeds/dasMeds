@@ -80,7 +80,8 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dasMeds/dasMeds/main/spotify-card.svg" width="500" alt="On Repeat" />
+<!-- Remember to paste your GitHub Issues CDN link here! -->
+<img src="PASTE_YOUR_GITHUB_CDN_LINK_HERE" width="500" alt="On Repeat" />
 
 </div>
 
