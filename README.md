@@ -3,7 +3,7 @@
 # Hey, I'm Pat Kristian Manalastas
 ### `@dasMeds` — Frontend Developer in Progress · Java Enthusiast · Creative Eye
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A3A380?style=for-the-badge&logo=netlify&logoColor=EFEBCE)](https://manalastas-official-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A3A380?style=for-the-badge&labelColor=A3A380&logo=netlify&logoColor=EFEBCE&logoWidth=20)](https://manalastas-official-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BB8588?style=for-the-badge&logo=linkedin&logoColor=EFEBCE)](https://www.linkedin.com/in/pat-kristian-manalastas-2179682a3)
 [![Instagram](https://img.shields.io/badge/Instagram-D8A48F?style=for-the-badge&logo=instagram&logoColor=EFEBCE)](https://www.instagram.com/das.krstn/?hl=en)
 [![Discord](https://img.shields.io/badge/Discord-A3A380?style=for-the-badge&logo=discord&logoColor=EFEBCE)](https://discord.com/users/dasmeds)
@@ -61,9 +61,9 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-![dasMeds's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasMeds&show_icons=true&title_color=A3A380&icon_color=D8A48F&text_color=D7CE93&bg_color=1a1a1a&hide_border=true&count_private=true)
+![dasMeds's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dasMeds&show_icons=true&title_color=A3A380&icon_color=D8A48F&text_color=D7CE93&bg_color=1a1a1a&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=A3A380&text_color=D7CE93&bg_color=1a1a1a&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=A3A380&text_color=D7CE93&bg_color=1a1a1a&hide_border=true)
 
 </div>
 
@@ -82,8 +82,10 @@ When I'm not writing code or pushing commits, you'll probably find me:
 
 <div align="center">
 
-*"Still learning. Still building. Still going."*
+*"You have power over your mind, not outside events. Realize this, and you will find strength."*
 
-[![Visit my Portfolio](https://img.shields.io/badge/See_My_Work-A3A380?style=for-the-badge&logo=netlify&logoColor=EFEBCE)](https://manalastas-official-portfolio.netlify.app/)
+— Marcus Aurelius
+
+[![Visit my Portfolio](https://img.shields.io/badge/See_My_Work-A3A380?style=for-the-badge&labelColor=A3A380&logo=netlify&logoColor=EFEBCE&logoWidth=20)](https://manalastas-official-portfolio.netlify.app/)
 
 </div>
