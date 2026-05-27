@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="288" viewBox="0 0 520 288">
+  <defs>
+    <clipPath id="card-clip">
+      <rect width="520" height="288" rx="14"/>
+    </clipPath>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c4868a"/>
+      <stop offset="100%" stop-color="#9a4e52"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8c8a5a"/>
+      <stop offset="100%" stop-color="#606040"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#222222"/>
+      <stop offset="100%" stop-color="#5a3055"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4948a"/>
+      <stop offset="100%" stop-color="#b87878"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="520" height="288" rx="14" fill="#1C1A14"/>
+
+  <!-- Spotify logo -->
+  <circle cx="22" cy="18" r="9" fill="#1DB954"/>
+  <path d="M17.5 15.4 Q22 13.6 26.5 15.4" stroke="#1C1A14" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M17 17.5 Q22 15.5 27 17.5" stroke="#1C1A14" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+  <path d="M17.5 19.5 Q22 18 26.5 19.5" stroke="#1C1A14" stroke-width="1.1" fill="none" stroke-linecap="round"/>
+  <text x="37" y="22" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="2">ON REPEAT</text>
+
+  <!-- Cream section (clipped to card corners) -->
+  <rect x="0" y="36" width="520" height="252" rx="0" fill="#EFEBCE" clip-path="url(#card-clip)"/>
+
+  <!-- ══ ROW 1: Konsensya ══ y-base: 62 center -->
+  <text x="20" y="70" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#888888" text-anchor="middle">1</text>
+  <g transform="translate(34,46)">
+    <rect width="48" height="48" rx="5" fill="url(#g1)"/>
+    <path d="M24 8C21 11.5 17 13 17 16.5c0 2.2 1.6 3.8 3.5 3.8-.4 1.2-1 2.2-2 2.7h11c-1-.5-1.6-1.5-2-2.7 1.9 0 3.5-1.6 3.5-3.8C31 13 27 11.5 24 8z M21 23h6v2h-6z M20 25h8v2.5H20z" fill="#EFEBCE"/>
+  </g>
+  <text x="94" y="66" font-family="'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#1C1A14">Konsensya</text>
+  <text x="94" y="83" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#666666">IV OF SPADES</text>
+  <a href="https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL" target="_blank">
+    <circle cx="490" cy="70" r="16" fill="#888888"/>
+    <polygon points="484,63 499,70 484,77" fill="#1C1A14"/>
+  </a>
+  <line x1="16" y1="100" x2="504" y2="100" stroke="#00000018" stroke-width="1"/>
+
+  <!-- ══ ROW 2: Tamis ng Pagkakamali ══ y-base: 128 center -->
+  <text x="20" y="128" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#888888" text-anchor="middle">2</text>
+  <g transform="translate(34,104)">
+    <rect width="48" height="48" rx="5" fill="url(#g2)"/>
+    <path d="M24 8C21 11.5 17 13 17 16.5c0 2.2 1.6 3.8 3.5 3.8-.4 1.2-1 2.2-2 2.7h11c-1-.5-1.6-1.5-2-2.7 1.9 0 3.5-1.6 3.5-3.8C31 13 27 11.5 24 8z M21 23h6v2h-6z M20 25h8v2.5H20z" fill="#EFEBCE"/>
+  </g>
+  <text x="94" y="124" font-family="'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#1C1A14">Tamis ng Pagkakamali</text>
+  <text x="94" y="141" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#666666">IV OF SPADES</text>
+  <a href="https://open.spotify.com/track/0MNcBNDORXiWofBOhlBFAJ" target="_blank">
+    <circle cx="490" cy="128" r="16" fill="#888888"/>
+    <polygon points="484,121 499,128 484,135" fill="#1C1A14"/>
+  </a>
+  <line x1="16" y1="158" x2="504" y2="158" stroke="#00000018" stroke-width="1"/>
+
+  <!-- ══ ROW 3: Sweet Child O' Mine ══ y-base: 186 center -->
+  <text x="20" y="186" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#888888" text-anchor="middle">3</text>
+  <g transform="translate(34,162)">
+    <rect width="48" height="48" rx="5" fill="url(#g3)"/>
+    <path d="M24 5 Q19 10 16 15 Q14 19 16 22 Q19 26 24 24 Q29 26 32 22 Q34 19 32 15 Q29 10 24 5Z" fill="#e08898"/>
+    <circle cx="30" cy="11" r="3.5" fill="#cc6680"/>
+    <path d="M29 11 Q31 9 33 10" stroke="#ff9eb5" stroke-width="1" fill="none" stroke-linecap="round"/>
+  </g>
+  <text x="94" y="182" font-family="'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#1C1A14">Sweet Child O&apos; Mine</text>
+  <text x="94" y="199" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#666666">Guns N&apos; Roses</text>
+  <a href="https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51" target="_blank">
+    <circle cx="490" cy="186" r="16" fill="#888888"/>
+    <polygon points="484,179 499,186 484,193" fill="#1C1A14"/>
+  </a>
+  <line x1="16" y1="216" x2="504" y2="216" stroke="#00000018" stroke-width="1"/>
+
+  <!-- ══ ROW 4: A Thousand Years ══ y-base: 244 center -->
+  <text x="20" y="244" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#888888" text-anchor="middle">4</text>
+  <g transform="translate(34,220)">
+    <rect width="48" height="48" rx="5" fill="url(#g4)"/>
+    <path d="M24 6 Q21 9 20.5 13 Q20 16 21.5 18 L20.5 38 L27.5 38 L26.5 18 Q28 16 27.5 13 Q27 9 24 6Z" fill="#EFEBCE"/>
+    <path d="M20.5 14 Q18 13 17 11 Q16 9 16.5 7 L18.5 10 Q18 11 18.5 12Z" fill="#EFEBCE" opacity="0.7"/>
+    <path d="M27.5 14 Q30 13 31 11 Q32 9 31.5 7 L29.5 10 Q30 11 29.5 12Z" fill="#EFEBCE" opacity="0.7"/>
+  </g>
+  <text x="94" y="240" font-family="'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#1C1A14">A Thousand Years</text>
+  <text x="94" y="257" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#666666">John Michael Howell, JVKE, ZVC</text>
+  <a href="https://open.spotify.com/track/2AXbX8jCzUMTlY37BDKj6Q" target="_blank">
+    <circle cx="490" cy="244" r="16" fill="#888888"/>
+    <polygon points="484,237 499,244 484,251" fill="#1C1A14"/>
+  </a>
+
+</svg>
