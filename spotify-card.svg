@@ -47,7 +47,7 @@
   <text x="46" y="184" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">1</text>
   <g transform="translate(72,137)">
     <rect width="80" height="80" rx="10" fill="url(#g1)" filter="url(#art-shadow)"/>
-    <text x="40" y="42" font-family="Georgia,'Times New Roman',serif" font-size="46" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
+    <text x="40" y="42" font-family="Georgia,'Times New Roman',serif" font-size="32" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
   </g>
   <text x="172" y="170" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Konsensya</text>
   <text x="172" y="198" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">IV OF SPADES</text>
@@ -61,7 +61,7 @@
   <text x="46" y="350" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">2</text>
   <g transform="translate(72,303)">
     <rect width="80" height="80" rx="10" fill="url(#g2)" filter="url(#art-shadow)"/>
-    <text x="40" y="42" font-family="Georgia,'Times New Roman',serif" font-size="46" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
+    <text x="40" y="42" font-family="Georgia,'Times New Roman',serif" font-size="32" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
   </g>
   <text x="172" y="336" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Tamis ng Pagkakamali</text>
   <text x="172" y="364" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">IV OF SPADES</text>
@@ -75,7 +75,7 @@
   <text x="46" y="516" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">3</text>
   <g transform="translate(72,469)">
     <rect width="80" height="80" rx="10" fill="url(#g3)" filter="url(#art-shadow)"/>
-    <text x="40" y="42" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central">🎸</text>
+    <text x="40" y="42" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="30" text-anchor="middle" dominant-baseline="central">🎸</text>
   </g>
   <text x="172" y="502" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Sweet Child O’ Mine</text>
   <text x="172" y="530" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">Guns N’ Roses</text>
@@ -89,7 +89,7 @@
   <text x="46" y="682" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">4</text>
   <g transform="translate(72,635)">
     <rect width="80" height="80" rx="10" fill="url(#g4)" filter="url(#art-shadow)"/>
-    <text x="40" y="42" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="44" fill="#1a1710" text-anchor="middle" dominant-baseline="central" opacity="0.65">🎵</text>
+    <text x="40" y="42" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="32" fill="#1a1710" text-anchor="middle" dominant-baseline="central" opacity="0.65">🎵</text>
   </g>
   <text x="172" y="668" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">A Thousand Years</text>
   <text x="172" y="696" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">John Michael Howell, JVKE, ZVC</text>
