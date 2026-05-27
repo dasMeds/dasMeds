@@ -30,16 +30,20 @@
     </linearGradient>
   </defs>
 
+  <!-- card with sweet drop shadow -->
   <rect x="4" y="4" width="892" height="832" rx="16" fill="#1a1710" filter="url(#shadow)" clip-path="url(#cc)"/>
 
+  <!-- ── HEADER ── -->
   <circle cx="38" cy="44" r="16" fill="#1DB954"/>
   <path d="M30 39 Q38 36 46 39" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
   <path d="M29 44 Q38 41 47 44" stroke="#fff" stroke-width="2.2" fill="none" stroke-linecap="round"/>
   <path d="M30 49 Q38 46.5 46 49" stroke="#fff" stroke-width="1.9" fill="none" stroke-linecap="round"/>
   <text x="64" y="51" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#EFEBCE" letter-spacing="3">ON REPEAT</text>
 
+  <!-- ── CREAM BODY ── -->
   <rect x="4" y="80" width="892" height="672" fill="#EFEBCE"/>
 
+  <!-- ══ ROW 1: Konsensya ══ -->
   <text x="46" y="184" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">1</text>
   <g transform="translate(72,137)">
     <rect width="80" height="80" rx="10" fill="url(#g1)" filter="url(#art-shadow)"/>
@@ -53,6 +57,7 @@
   </a>
   <line x1="28" y1="250" x2="876" y2="250" stroke="#00000012" stroke-width="1"/>
 
+  <!-- ══ ROW 2: Tamis ng Pagkakamali ══ -->
   <text x="46" y="350" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">2</text>
   <g transform="translate(72,303)">
     <rect width="80" height="80" rx="10" fill="url(#g2)" filter="url(#art-shadow)"/>
@@ -66,10 +71,11 @@
   </a>
   <line x1="28" y1="416" x2="876" y2="416" stroke="#00000012" stroke-width="1"/>
 
+  <!-- ══ ROW 3: Sweet Child O' Mine ══ -->
   <text x="46" y="516" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">3</text>
   <g transform="translate(72,469)">
     <rect width="80" height="80" rx="10" fill="url(#g3)" filter="url(#art-shadow)"/>
-    <text x="40" y="42" font-family="Georgia,serif" font-size="38" text-anchor="middle" dominant-baseline="central">🎸</text>
+    <text x="40" y="42" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="38" text-anchor="middle" dominant-baseline="central">🎸</text>
   </g>
   <text x="172" y="502" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Sweet Child O’ Mine</text>
   <text x="172" y="530" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">Guns N’ Roses</text>
@@ -79,10 +85,11 @@
   </a>
   <line x1="28" y1="582" x2="876" y2="582" stroke="#00000012" stroke-width="1"/>
 
+  <!-- ══ ROW 4: A Thousand Years ══ -->
   <text x="46" y="682" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">4</text>
   <g transform="translate(72,635)">
     <rect width="80" height="80" rx="10" fill="url(#g4)" filter="url(#art-shadow)"/>
-    <text x="40" y="42" font-family="Georgia,'Times New Roman',serif" font-size="44" fill="#1a1710" text-anchor="middle" dominant-baseline="central" opacity="0.65">♪</text>
+    <text x="40" y="42" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="44" fill="#1a1710" text-anchor="middle" dominant-baseline="central" opacity="0.65">🎵</text>
   </g>
   <text x="172" y="668" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">A Thousand Years</text>
   <text x="172" y="696" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">John Michael Howell, JVKE, ZVC</text>
@@ -91,5 +98,7 @@
     <polygon points="850,665 872,675 850,685" fill="#1a1710"/>
   </a>
 
+  <!-- ── FOOTER ── -->
   <text x="28" y="818" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#A3A380">@dasMeds · on repeat</text>
+  <text x="876" y="818" font-family="'Helvetica Neue',Arial,sans-serif" font-size="15" fill="#BB8588" text-anchor="end">open in spotify ↗</text>
 </svg>
