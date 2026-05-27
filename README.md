@@ -63,7 +63,16 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 ![dasMeds's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE)
 
-![Top Languages](https://gh-stats-nu.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=A3A380&text_color=191A1D&bg_color=EFEBCE&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## On Repeat
+
+<div align="center">
+
+<img src="./spotify-card.svg" alt="On Repeat" />
 
 </div>
 
