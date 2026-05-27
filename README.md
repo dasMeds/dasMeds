@@ -3,10 +3,10 @@
 # Hey, I'm Pat Kristian Manalastas
 ### `@dasMeds` — Frontend Developer in Progress · Java Enthusiast · Creative Eye
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-A3A380?style=for-the-badge&labelColor=A3A380&logo=netlify&logoColor=EFEBCE&logoWidth=20)](https://manalastas-official-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB8588?style=for-the-badge&logo=linkedin&logoColor=EFEBCE)](https://www.linkedin.com/in/pat-kristian-manalastas-2179682a3)
-[![Instagram](https://img.shields.io/badge/Instagram-D8A48F?style=for-the-badge&logo=instagram&logoColor=EFEBCE)](https://www.instagram.com/das.krstn/?hl=en)
-[![Discord](https://img.shields.io/badge/Discord-A3A380?style=for-the-badge&logo=discord&logoColor=EFEBCE)](https://discord.com/users/dasmeds)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3d3d2e?style=for-the-badge&logo=netlify&logoColor=D7CE93)](https://manalastas-official-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3d3d2e?style=for-the-badge&logo=linkedin&logoColor=D7CE93)](https://www.linkedin.com/in/pat-kristian-manalastas-2179682a3)
+[![Instagram](https://img.shields.io/badge/Instagram-3d3d2e?style=for-the-badge&logo=instagram&logoColor=D7CE93)](https://www.instagram.com/das.krstn/?hl=en)
+[![Discord](https://img.shields.io/badge/dasmeds-3d3d2e?style=for-the-badge&logo=discord&logoColor=D7CE93)](https://discord.com/users/dasmeds)
 
 </div>
 
@@ -26,22 +26,22 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 ## Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-A3A380?style=for-the-badge&logo=html5&logoColor=EFEBCE)
-![CSS3](https://img.shields.io/badge/CSS3-BB8588?style=for-the-badge&logo=css3&logoColor=EFEBCE)
-![JavaScript](https://img.shields.io/badge/JavaScript-D7CE93?style=for-the-badge&logo=javascript&logoColor=A3A380)
-![Java](https://img.shields.io/badge/Java-D8A48F?style=for-the-badge&logo=openjdk&logoColor=EFEBCE)
+![HTML5](https://img.shields.io/badge/HTML5-3d3d2e?style=for-the-badge&logo=html5&logoColor=D7CE93)
+![CSS3](https://img.shields.io/badge/CSS3-4a3a3b?style=for-the-badge&logo=css3&logoColor=EFEBCE)
+![JavaScript](https://img.shields.io/badge/JavaScript-3d3d2e?style=for-the-badge&logo=javascript&logoColor=D7CE93)
+![Java](https://img.shields.io/badge/Java-4a3a3b?style=for-the-badge&logo=openjdk&logoColor=EFEBCE)
 
 ## Tools & Software
 
-![VS Code](https://img.shields.io/badge/VS_Code-A3A380?style=for-the-badge&logo=visualstudiocode&logoColor=EFEBCE)
-![Git](https://img.shields.io/badge/Git-BB8588?style=for-the-badge&logo=git&logoColor=EFEBCE)
-![GitHub](https://img.shields.io/badge/GitHub-A3A380?style=for-the-badge&logo=github&logoColor=EFEBCE)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-D8A48F?style=for-the-badge&logo=cisco&logoColor=EFEBCE)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-BB8588?style=for-the-badge&logo=adobephotoshop&logoColor=EFEBCE)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-A3A380?style=for-the-badge&logo=adobepremierepro&logoColor=EFEBCE)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-D8A48F?style=for-the-badge&logo=adobeaftereffects&logoColor=EFEBCE)
-![Canva](https://img.shields.io/badge/Canva-BB8588?style=for-the-badge&logo=canva&logoColor=EFEBCE)
-![CapCut](https://img.shields.io/badge/CapCut-A3A380?style=for-the-badge&logo=capcut&logoColor=EFEBCE)
+![VS Code](https://img.shields.io/badge/VS_Code-3d3d2e?style=for-the-badge&logo=visualstudiocode&logoColor=D7CE93)
+![Git](https://img.shields.io/badge/Git-4a3a3b?style=for-the-badge&logo=git&logoColor=EFEBCE)
+![GitHub](https://img.shields.io/badge/GitHub-3d3d2e?style=for-the-badge&logo=github&logoColor=D7CE93)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-4a3a3b?style=for-the-badge&logo=cisco&logoColor=EFEBCE)
+![Photoshop](https://img.shields.io/badge/Photoshop-3d3d2e?style=for-the-badge&logo=adobephotoshop&logoColor=D7CE93)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-4a3a3b?style=for-the-badge&logo=adobepremierepro&logoColor=EFEBCE)
+![After Effects](https://img.shields.io/badge/After_Effects-3d3d2e?style=for-the-badge&logo=adobeaftereffects&logoColor=D7CE93)
+![Canva](https://img.shields.io/badge/Canva-4a3a3b?style=for-the-badge&logo=canva&logoColor=EFEBCE)
+![CapCut](https://img.shields.io/badge/CapCut-3d3d2e?style=for-the-badge&logo=capcut&logoColor=D7CE93)
 
 ---
 
@@ -61,9 +61,9 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-![dasMeds's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=1a1a1a&tc=A3A380&ic=D8A48F&bc=1a1a1a)
+![dasMeds's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=191a1d&tc=D7CE93&ic=A3A380&bc=191a1d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=A3A380&text_color=D7CE93&bg_color=1a1a1a&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dasMeds&layout=compact&title_color=D7CE93&text_color=EFEBCE&bg_color=191a1d&hide_border=true&langs_count=6)
 
 </div>
 
@@ -86,6 +86,6 @@ When I'm not writing code or pushing commits, you'll probably find me:
 
 — Marcus Aurelius
 
-[![Visit my Portfolio](https://img.shields.io/badge/See_My_Work-A3A380?style=for-the-badge&labelColor=A3A380&logo=netlify&logoColor=EFEBCE&logoWidth=20)](https://manalastas-official-portfolio.netlify.app/)
+[![Visit my Portfolio](https://img.shields.io/badge/See_My_Work-3d3d2e?style=for-the-badge&logo=netlify&logoColor=D7CE93)](https://manalastas-official-portfolio.netlify.app/)
 
 </div>
