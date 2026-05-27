@@ -69,7 +69,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=dasMeds&cc=EFEBCE&tc=A3A380&ic=BB8588&bc=EFEBCE" alt="dasMeds's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dasMeds&show_icons=true&bg_color=EFEBCE&title_color=A3A380&icon_color=BB8588&text_color=191A1D&hide_border=true&border_radius=16" width="800" alt="dasMeds's GitHub Stats" />
 
 </div>
 
@@ -79,7 +79,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 <div align="center">
 
-<img src="./spotify-card.svg" alt="On Repeat" />
+<img src="./spotify-card.svg" width="800" alt="On Repeat" />
 
 </div>
 
@@ -90,7 +90,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 When I'm not writing code or pushing commits, you'll probably find me:
 
 - Cutting and editing videos — I care a lot about how things *feel*, not just how they look
-- Capturing and composing digital content — whether it's out with a camera or framing up the perfect in-game screenshots to design promotional sneak peeks for War Thunder servers
+- Capturing and composing digital content — whether it's out with a camera or framing up the perfect in-game screenshots
 - Editing photos and playing with visual composition
 - Learning something new — currently deep in frontend fundamentals and Java OOP
 
