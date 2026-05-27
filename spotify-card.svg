@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="840" viewBox="0 0 900 840">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="800" viewBox="0 0 900 800">
   <defs>
     <clipPath id="cc">
-      <rect x="4" y="4" width="900" height="840" rx="16"/>
+      <rect x="4" y="4" width="892" height="792" rx="16"/>
     </clipPath>
     
     <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
@@ -28,75 +28,68 @@
       <stop offset="0%" stop-color="#c4888a"/>
       <stop offset="100%" stop-color="#a06868"/>
     </linearGradient>
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D8A48F"/>
+      <stop offset="100%" stop-color="#BB8588"/>
+    </linearGradient>
   </defs>
 
   <!-- card with sweet drop shadow -->
-  <rect x="4" y="4" width="892" height="832" rx="16" fill="#1a1710" filter="url(#shadow)" clip-path="url(#cc)"/>
+  <rect x="4" y="4" width="892" height="792" rx="16" fill="#1a1710" filter="url(#shadow)"/>
 
   <!-- ── HEADER ── -->
-  <circle cx="38" cy="44" r="16" fill="#1DB954"/>
-  <path d="M30 39 Q38 36 46 39" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-  <path d="M29 44 Q38 41 47 44" stroke="#fff" stroke-width="2.2" fill="none" stroke-linecap="round"/>
-  <path d="M30 49 Q38 46.5 46 49" stroke="#fff" stroke-width="1.9" fill="none" stroke-linecap="round"/>
-  <text x="64" y="51" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#EFEBCE" letter-spacing="3">ON REPEAT</text>
+  <text x="36" y="51" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#EFEBCE" letter-spacing="3">ON REPEAT</text>
 
   <!-- ── CREAM BODY ── -->
-  <rect x="4" y="80" width="892" height="672" fill="#EFEBCE"/>
+  <rect x="4" y="80" width="892" height="712" fill="#EFEBCE" clip-path="url(#cc)"/>
 
   <!-- ══ ROW 1: Konsensya ══ -->
-  <text x="46" y="184" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">1</text>
-  <g transform="translate(72,147)">
-    <rect width="60" height="60" rx="8" fill="url(#g1)" filter="url(#art-shadow)"/>
-    <text x="30" y="32" font-family="Georgia,'Times New Roman',serif" font-size="26" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
+  <text x="46" y="150" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">1</text>
+  <g transform="translate(72,128)">
+    <rect width="44" height="44" rx="6" fill="url(#g1)" filter="url(#art-shadow)"/>
+    <text x="22" y="22" font-family="Georgia,'Times New Roman',serif" font-size="20" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
   </g>
-  <text x="162" y="170" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Konsensya</text>
-  <text x="162" y="198" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">IV OF SPADES</text>
-  <a href="https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL" target="_blank">
-    <circle cx="858" cy="177" r="26" fill="#8a8a7a"/>
-    <polygon points="850,167 872,177 850,187" fill="#1a1710"/>
-  </a>
-  <line x1="28" y1="250" x2="876" y2="250" stroke="#00000012" stroke-width="1"/>
+  <text x="146" y="142" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Konsensya</text>
+  <text x="146" y="166" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">IV OF SPADES</text>
+  <line x1="28" y1="220" x2="876" y2="220" stroke="#00000012" stroke-width="1"/>
 
   <!-- ══ ROW 2: Tamis ng Pagkakamali ══ -->
-  <text x="46" y="350" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">2</text>
-  <g transform="translate(72,313)">
-    <rect width="60" height="60" rx="8" fill="url(#g2)" filter="url(#art-shadow)"/>
-    <text x="30" y="32" font-family="Georgia,'Times New Roman',serif" font-size="26" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
+  <text x="46" y="290" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">2</text>
+  <g transform="translate(72,268)">
+    <rect width="44" height="44" rx="6" fill="url(#g2)" filter="url(#art-shadow)"/>
+    <text x="22" y="22" font-family="Georgia,'Times New Roman',serif" font-size="20" fill="#000000" text-anchor="middle" dominant-baseline="central">♠</text>
   </g>
-  <text x="162" y="336" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Tamis ng Pagkakamali</text>
-  <text x="162" y="364" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">IV OF SPADES</text>
-  <a href="https://open.spotify.com/track/0MNcBNDORXiWofBOhlBFAJ" target="_blank">
-    <circle cx="858" cy="343" r="26" fill="#8a8a7a"/>
-    <polygon points="850,333 872,343 850,353" fill="#1a1710"/>
-  </a>
-  <line x1="28" y1="416" x2="876" y2="416" stroke="#00000012" stroke-width="1"/>
+  <text x="146" y="282" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Tamis ng Pagkakamali</text>
+  <text x="146" y="306" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">IV OF SPADES</text>
+  <line x1="28" y1="360" x2="876" y2="360" stroke="#00000012" stroke-width="1"/>
 
   <!-- ══ ROW 3: Sweet Child O' Mine ══ -->
-  <text x="46" y="516" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">3</text>
-  <g transform="translate(72,479)">
-    <rect width="60" height="60" rx="8" fill="url(#g3)" filter="url(#art-shadow)"/>
-    <text x="30" y="32" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="24" text-anchor="middle" dominant-baseline="central">🎸</text>
+  <text x="46" y="430" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">3</text>
+  <g transform="translate(72,408)">
+    <rect width="44" height="44" rx="6" fill="url(#g3)" filter="url(#art-shadow)"/>
+    <text x="22" y="22" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central">🎸</text>
   </g>
-  <text x="162" y="502" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Sweet Child O’ Mine</text>
-  <text x="162" y="530" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">Guns N’ Roses</text>
-  <a href="https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51" target="_blank">
-    <circle cx="858" cy="509" r="26" fill="#8a8a7a"/>
-    <polygon points="850,499 872,509 850,519" fill="#1a1710"/>
-  </a>
-  <line x1="28" y1="582" x2="876" y2="582" stroke="#00000012" stroke-width="1"/>
+  <text x="146" y="422" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Sweet Child O’ Mine</text>
+  <text x="146" y="446" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">Guns N’ Roses</text>
+  <line x1="28" y1="500" x2="876" y2="500" stroke="#00000012" stroke-width="1"/>
 
   <!-- ══ ROW 4: A Thousand Years ══ -->
-  <text x="46" y="682" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">4</text>
-  <g transform="translate(72,645)">
-    <rect width="60" height="60" rx="8" fill="url(#g4)" filter="url(#art-shadow)"/>
-    <text x="30" y="32" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="26" fill="#1a1710" text-anchor="middle" dominant-baseline="central" opacity="0.65">🎵</text>
+  <text x="46" y="570" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">4</text>
+  <g transform="translate(72,548)">
+    <rect width="44" height="44" rx="6" fill="url(#g4)" filter="url(#art-shadow)"/>
+    <text x="22" y="22" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="18" fill="#1a1710" text-anchor="middle" dominant-baseline="central" opacity="0.65">🎵</text>
   </g>
-  <text x="162" y="668" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">A Thousand Years</text>
-  <text x="162" y="696" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">John Michael Howell, JVKE, ZVC</text>
-  <a href="https://open.spotify.com/track/2AXbX8jCzUMTlY37BDKj6Q" target="_blank">
-    <circle cx="858" cy="675" r="26" fill="#8a8a7a"/>
-    <polygon points="850,665 872,675 850,685" fill="#1a1710"/>
-  </a>
+  <text x="146" y="562" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">A Thousand Years</text>
+  <text x="146" y="586" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">John Michael Howell, JVKE, ZVC</text>
+  <line x1="28" y1="640" x2="876" y2="640" stroke="#00000012" stroke-width="1"/>
 
-  <footer>
-  </footer>
+  <!-- ══ ROW 5: Anytime Anywhere ══ -->
+  <text x="46" y="710" font-family="'Helvetica Neue',Arial,sans-serif" font-size="18" fill="#999" text-anchor="middle">5</text>
+  <g transform="translate(72,688)">
+    <rect width="44" height="44" rx="6" fill="url(#g5)" filter="url(#art-shadow)"/>
+    <text x="22" y="22" font-family="'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif" font-size="18" text-anchor="middle" dominant-baseline="central">🎧</text>
+  </g>
+  <text x="146" y="702" font-family="'Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#1a1710">Anytime Anywhere</text>
+  <text x="146" y="726" font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#777">milet</text>
+
+</svg>
