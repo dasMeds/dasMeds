@@ -17,7 +17,7 @@
 I'm a developer and creative from the Philippines, currently sharpening my craft on both the frontend and backend side of things. I love building things that look good **and** work well — whether that's a web interface, a Java desktop app, or a video edit.
 
 - Currently refining my **HTML, CSS & JavaScript** skills — focused on clean, responsive, and interactive frontends
-- Also leveling up in **Java** — I enjoy building desktop applications with Java Swing
+- Also leveling up in **Java**
 - Amateur **video editor** with an eye for pacing, cuts, and visual storytelling
 - **Photographer** and photo editor — I like making visuals that pop
 - Based in the Philippines
