@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Pat Kristian Manalastas
-### `@dasMeds` — Frontend Developer in Progress · Java Enthusiast · Creative Eye
+### `@dasMeds` — Frontend and Backend Developer in Progress  · Creative Eye
 
 <a href="https://manalastas-official-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-A3A380?style=for-the-badge&logo=netlify&logoColor=191A1D" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/pat-kristian-manalastas-2179682a3"><img src="https://img.shields.io/badge/LinkedIn-BB8588?style=for-the-badge&logo=linkedin&logoColor=191A1D" alt="LinkedIn" /></a>
