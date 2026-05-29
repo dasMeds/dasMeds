@@ -57,9 +57,7 @@ I'm a developer and creative from the Philippines, currently sharpening my craft
 
 | Project | Description | Stack |
 |---|---|---|
-| [Currency Exchange Locator](https://github.com/dasMeds/Currency-Exchange-Locator) | Desktop app with interactive map, Euclidean distance evaluation & live exchange simulation | Java, Java Swing |
-| [Global Currency App](https://github.com/dasMeds/Global-Currency-App) | Dark-themed app exploring 180+ world currencies with region filters & real-time conversion | Java, Java Swing |
-| [Philippine Festivals Project](https://github.com/dasMeds/Philippine-Festivals-Project) | Catalogs PH cultural events by region with historical context & dark UI | Java, Java Swing |
+| [30-Days-Java](https://github.com/dasMeds/30-Days-Java) | Personal Java practice repo — 30 days of code, notes, and mini-projects as I learn from the ground up. | Java |
 | [Portfolio Website](https://github.com/dasMeds/dasmedsPortfolio.github.io) | Personal portfolio built with HTML, CSS & JS | HTML, CSS, JS |
 | [House of Origami](https://github.com/dasMeds/House-of-Origami) | A creative HTML project | HTML |
 
